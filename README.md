@@ -4,13 +4,13 @@ Same Project with Python and Java connected to same SQL DB
 CLI application connected to DB named "inventory" having table "records".
 performing basic database operation such as read, update, delete, search, count
 
-#Java JDBC application
+# Java JDBC application
 used library java.sql and java.util with scrollable ResultSet.
 
-#python application
+# python application
 used library mysql.connector
 
-#output
+# output
 ```
 Welcome to the Inventory Management Tool
 1. Show inventory.
