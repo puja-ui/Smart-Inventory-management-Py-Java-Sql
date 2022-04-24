@@ -1,5 +1,5 @@
 # Smart-Inventory-management-Py-Java-Sql
-Same Project with Python and Java connected to same DB
+Same Project with Python and Java connected to same SQL DB
 
 CLI application connected to DB named "inventory" having table "records".
 performing basic database operation such as read, update, delete, search, count
